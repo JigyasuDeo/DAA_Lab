@@ -1,0 +1,6 @@
+Key is Present in Array
+No. of Comparison = 3
+Key is Not Present in an Array
+No. of Comparison = 4
+Key is Present in Array
+No. of Comparison = 3
