@@ -1,0 +1,2 @@
+No It is Not Bipartite
+Yes It is Bipartite
